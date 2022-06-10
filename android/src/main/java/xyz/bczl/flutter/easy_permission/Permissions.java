@@ -32,7 +32,7 @@ public class Permissions {
             Manifest.permission.RECEIVE_MMS,
             Manifest.permission.RECEIVE_SMS,
             Manifest.permission.SEND_SMS,
-            Manifest.permission.SYSTEM_ALERT_WINDOWS,
+            Manifest.permission.SYSTEM_ALERT_WINDOW,
     };
 
     public static String[] getPermissionsArray(ArrayList<Integer> perms){
