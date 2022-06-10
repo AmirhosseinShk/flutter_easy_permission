@@ -4,6 +4,7 @@ import android.Manifest;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.jar.Manifest;
 
 public class Permissions {
 
@@ -32,6 +33,7 @@ public class Permissions {
             Manifest.permission.RECEIVE_MMS,
             Manifest.permission.RECEIVE_SMS,
             Manifest.permission.SEND_SMS,
+            Manifest.permission.SYSTEM_ALERT_WINDOWS,
     };
 
     public static String[] getPermissionsArray(ArrayList<Integer> perms){

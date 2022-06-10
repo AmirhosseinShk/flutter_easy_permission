@@ -34,6 +34,7 @@ enum Permissions {
   RECEIVE_MMS,
   RECEIVE_SMS,
   SEND_SMS,
+  SYSTEM_ALERT_WINDOWS
 }
 
 // *****************************************************************************
