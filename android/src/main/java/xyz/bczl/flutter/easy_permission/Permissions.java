@@ -4,7 +4,6 @@ import android.Manifest;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.jar.Manifest;
 
 public class Permissions {
 
